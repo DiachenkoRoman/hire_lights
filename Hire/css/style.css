@@ -1,0 +1,9 @@
+.table{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+}
+
+.worker span {
+    margin-right: 10px;
+
+}
